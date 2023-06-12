@@ -1,0 +1,10 @@
+/* REMOVE VERTICAL LINES IN DOCUMENT MODE */
+.rm-multibar {
+  display:none;
+}
+
+/* REMOVE BULLETPOINTS IN DOCUMENT MODE */
+.controls, .rm-block__controls {
+    flex: 0 0 38px;
+   display: none;
+}
